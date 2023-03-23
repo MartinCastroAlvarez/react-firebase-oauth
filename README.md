@@ -15,13 +15,13 @@ React application implementing Oauth 2.0 with Firebase
 
 |File|Description|
 |---|---|
-|[src/App.jsx](src/App.jsx)|Main application hook.]
-|[src/Fire.jsx](src/Fire.jsx)|Firebase configuration file.]
-|[src/layout/Nav.jsx](src/layout/Nav.jsx)|Navigation bar component.]
-|[src/layout/Loading.jsx](src/layout/Loading.jsx)|Loading message.]
-|[src/views/Home.jsx](src/views/Home.jsx)|Home view.]
-|[src/views/Login.jsx](src/views/Login.jsx)|Login view.]
-|[src/views/SignUp.jsx](src/views/SignUp.jsx)|Sign up view.]
+|[src/App.jsx](src/App.jsx)|Main application hook.|
+|[src/Fire.jsx](src/Fire.jsx)|Firebase configuration file.|
+|[src/layout/Nav.jsx](src/layout/Nav.jsx)|Navigation bar component.|
+|[src/layout/Loading.jsx](src/layout/Loading.jsx)|Loading message.|
+|[src/views/Home.jsx](src/views/Home.jsx)|Home view.|
+|[src/views/Login.jsx](src/views/Login.jsx)|Login view.|
+|[src/views/SignUp.jsx](src/views/SignUp.jsx)|Sign up view.|
 
 ## Instructions
 
